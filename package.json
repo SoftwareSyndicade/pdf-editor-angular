@@ -26,8 +26,10 @@
     "@fortawesome/free-brands-svg-icons": "^5.15.2",
     "@fortawesome/free-solid-svg-icons": "^5.15.2",
     "@pdftron/webviewer": "^8.0.0",
+    "@types/file-saver": "^2.0.3",
     "bootstrap": "^5.1.2",
     "core-js": "^2.5.4",
+    "file-saver": "^2.0.5",
     "rxjs": "^6.5.3",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
